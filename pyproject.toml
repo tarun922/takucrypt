@@ -11,7 +11,7 @@ readme = "README.md"
 requires-python = ">=3.7"
 license = {text = "MIT"}
 authors = [
-    {name = "Your Name", email = "your.email@example.com"},
+    {name = "Tarun Kumar", email = "tarunkum8800@gmail.com"},
 ]
 keywords = ["encryption", "decryption", "cipher", "text", "security"]
 classifiers = [
@@ -30,9 +30,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/takucyrpt"
-"Bug Reports" = "https://github.com/yourusername/takucyrpt/issues"
-"Source" = "https://github.com/yourusername/takucyrpt"
+Homepage = "https://github.com/tarun922/takucyrpt"
+"Bug Reports" = "https://github.com/tarun922/takucyrpt/issues"
+"Source" = "https://github.com/tarun922/takucyrpt"
 
 [tool.setuptools.packages.find]
 where = ["."]
